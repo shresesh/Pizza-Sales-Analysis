@@ -26,4 +26,4 @@ This project provides a comprehensive analysis of pizza sales performance to ide
 3. Refresh the data to populate the interactive visualizations.
 
 ---
-**Project by Shreyas Seshadri** *Connect with me on [LinkedIn] https://www.linkedin.com/in/shresesh/*
+**Project by Shreyas Seshadri** *Connect with me on https://www.linkedin.com/in/shresesh/*
